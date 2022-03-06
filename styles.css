@@ -79,6 +79,7 @@ button{
 .imgs-texts{
     display:flex;
     width:600px;
+    justify-content:space-between;
 }
 .container3{
     background-color:#E5E7EB;
@@ -106,3 +107,9 @@ button{
 footer{
     text-align:center;
 }
+img{
+    width:200px;
+    height:100px;
+    margin:16px;
+}
+.
